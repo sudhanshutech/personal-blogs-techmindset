@@ -1,4 +1,13 @@
-# Starting with Open Source
+---
+title: "Starting with Open Source"
+seoTitle: "Getting started with open source"
+datePublished: Fri Feb 10 2023 12:31:38 GMT+0000 (Coordinated Universal Time)
+cuid: cldyicu6v000009jq6han8jxy
+slug: starting-with-open-source
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1676032179295/36923231-ac16-4a56-a9f8-34f40fd20e6b.png
+tags: opensource, developer, layer5, open-source-beginners-guide, opensource-journey
+
+---
 
 ### Why do we require it?
 
@@ -52,5 +61,7 @@ Here are a few resources you can start your journey:
 [Eddiehub Organization](https://github.com/EddieHubCommunity)
 
 [Good first Issue Finder](https://goodfirstissue.dev/)
+
+[Layer5 Community](https://layer5.io/)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1676031680471/fc8b1b4f-ebd8-4df5-90e6-9aa674d37c12.png align="center")
